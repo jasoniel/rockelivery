@@ -1,5 +1,5 @@
 # Rockelivery
-[![codecov](https://codecov.io/gh/jasoniel/rockelivery/branch/master/graph/badge.svg?token=1N8IN45CAH)](https://codecov.io/gh/jasoniel/rockelivery)
+[![Rockelivery Actions Status](https://github.com/jasoniel/rockelivery/actions/workflows/elixir.yml/badge.svg)](https://github.com/jasoniel/rockelivery/actions)  [![codecov](https://codecov.io/gh/jasoniel/rockelivery/branch/master/graph/badge.svg?token=1N8IN45CAH)](https://codecov.io/gh/jasoniel/rockelivery)
 
 To start your Phoenix server:
 
